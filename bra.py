@@ -19,9 +19,9 @@ Throughout the fight for women's right as early as the women's march, bras have 
                  FEYISAYO DAISI
                  MGGN AMBASSADOR 2021""")
 
-Band_size=st.number_input('What is your Band size?')
+Band_size=st.number_input('What is your Band size?', step=1)
 
-Bust_size=st.number_input('What is your bust size?')
+Bust_size=st.number_input('What is your bust size?', step=1)
 
 st.write(""" # HOW TO USE
 1.Measure Bust Size: Area around your bust 
