@@ -47,7 +47,8 @@ else:
     st.write('Your Bra size is ',Band,'DDD/F')
 
     
-   st.write(""" #HOW TO USE
+st.write(""" #HOW TO USE
+
 1.Measure Bust Size: Area around your bust 
 
 2.Measure Band Size: Area under your rib cage under your bust
