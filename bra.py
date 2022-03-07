@@ -27,7 +27,7 @@ st.write(""" # HOW TO USE
 1.Measure Bust Size: Area around your bust 
 2.Measure Band Size: Area under your rib cage under your bust 
 3.Input the measurements in as required
-4.Press enter to apply."""
+4.Press enter to apply.""")
 
 Band = (Band_size+3)
 if Band%2!=0:
